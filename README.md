@@ -1,4 +1,4 @@
-# AIP-Section-Namings
+# AIP Section Namings
 Index of the namings of the sections of AIP.
 
 This data can be used for if you want to develop something like downloading AIP pages and naming them according to their sections.
